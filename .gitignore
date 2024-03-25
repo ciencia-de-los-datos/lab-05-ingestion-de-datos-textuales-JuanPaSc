@@ -1,7 +1,7 @@
 .DS_Store
 **.txt
 test/*
-_MACOSX/*
+__MACOSX/*
 train/*
 
 # Byte-compiled / optimized / DLL files
